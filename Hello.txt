@@ -1,4 +1,8 @@
 Hello!
 have a nce day! done something
 have a nce day! small change
+<<<<<<< HEAD
 Local Refactoring
+=======
+new Refactoring
+>>>>>>> a271a4c413e0d5e2e679e24a77d9e91221f50c5b
